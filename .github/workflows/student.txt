@@ -1,4 +1,0 @@
-Name: manoj kumar
-Roll Number: s24cseu1239
-Topic: GitHub Actions
-Status: Evaluation Completed
